@@ -12,7 +12,7 @@ export default function Header() {
   `;
 
   const HeaderTitle = styled.p`
-    font-size: 2.6em;
+    font-size: 1.8em;
     font-weight: 700;
     color: #000;
     margin: 0;
