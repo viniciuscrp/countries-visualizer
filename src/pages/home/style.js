@@ -12,11 +12,4 @@ const Cards = styled.div`
   grid-row-gap: 4rem;
 `;
 
-const Card = styled.div`
-  display: flex;
-  flex-direction: column;
-  height: 400px;
-  border: 1px solid red;
-`;
-
-export { Container, Cards, Card }
+export { Container, Cards }
