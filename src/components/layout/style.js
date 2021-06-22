@@ -12,7 +12,7 @@ const Page = styled.div`
   padding: 40px 30px;
   padding: 0px 160px 50px;
   margin-bottom: 0px;
-  background-color: #FBFBFB;
+  background-color: hsl(var(--very-light-gray-bg));
 `
 
 export { Container, Page };

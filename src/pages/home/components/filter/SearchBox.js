@@ -9,6 +9,7 @@ export default function SearchBox() {
     height: 100%;
     color: #c9c9c9;
     display: flex;
+    border-radius: 10px;
     align-items: center;
     padding: 0px 20px;
     background-color: #FFF;
