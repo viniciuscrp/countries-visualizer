@@ -3,7 +3,7 @@ import React from 'react';
 import { Card, DataContainer, DataTitle, DataValue, Details, Flag, FlagContainer, Name } from './style';
 
 export default function Country(props) {
-  return <Card>
+  return <Card onClick={props.onClick}>
     <FlagContainer>
       <Flag src={props.flag}></Flag>
     </FlagContainer>
