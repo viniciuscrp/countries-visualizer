@@ -9,7 +9,10 @@
   --home-page-text-size: 14px;
   --details-text-size: 16px;
 
-  --base-font: Nunito Sans
+  --base-font: Nunito Sans;
+  
+  --shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.4);
+  --active-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.8);
 }
 
 body {
