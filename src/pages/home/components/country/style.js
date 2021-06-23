@@ -4,6 +4,9 @@ const Card = styled.div`
   display: flex;
   flex-direction: column;
   height: 400px;
+  box-shadow: var(--shadow);
+  border-radius: 10px;
+  cursor: pointer;
 `;
 
 const FlagContainer = styled.div`
